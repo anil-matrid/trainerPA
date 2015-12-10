@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Waist size"; ObjectID = "32c-C1-2b5"; */
+"32c-C1-2b5.text" = "Wymiary Tal";
+
+/* Class = "UILabel"; text = "Chest size"; ObjectID = "A41-Aj-2x7"; */
+"A41-Aj-2x7.text" = "Wymiar klatki piersiowe";
+
+/* Class = "UILabel"; text = "Bone mass"; ObjectID = "AhE-lF-G5l"; */
+"AhE-lF-G5l.text" = "Masa kości";
+
+/* Class = "UILabel"; text = "Leg size"; ObjectID = "B9R-uf-09S"; */
+"B9R-uf-09S.text" = "Wymiar nogi";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GPd-Td-fLa"; */
+"GPd-Td-fLa.normalTitle" = "Gotowe";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "JQu-3V-Nqt"; */
+"JQu-3V-Nqt.text" = "Waga";
+
+/* Class = "UILabel"; text = "Body fat %"; ObjectID = "JeX-46-gob"; */
+"JeX-46-gob.text" = "Masa Tłuszczowa %";
+
+/* Class = "UILabel"; text = "Update Reminders"; ObjectID = "Om6-tJ-c29"; */
+"Om6-tJ-c29.text" = "Przypomnienie o aktualizacji";
+
+/* Class = "UILabel"; text = "Arm size"; ObjectID = "cIT-bF-uwf"; */
+"cIT-bF-uwf.text" = "Wymiar ręki";
+
+/* Class = "UILabel"; text = "Water %"; ObjectID = "mPt-NH-59d"; */
+"mPt-NH-59d.text" = "Woda %";
+
+/* Class = "UILabel"; text = "Monthly Body Measurements"; ObjectID = "uBI-SI-Tf7"; */
+"uBI-SI-Tf7.text" = "Miesięczne wymiary ciała";
+
+/* Class = "UILabel"; text = "Physical rating"; ObjectID = "wIL-er-dfz"; */
+"wIL-er-dfz.text" = "Ocena fizycznych";

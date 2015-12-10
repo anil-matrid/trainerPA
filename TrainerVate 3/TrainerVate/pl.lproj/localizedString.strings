@@ -1,0 +1,13 @@
+/* 
+  localizedString.strings
+  Trainer P.A.
+
+  Created by Matrid on 09/12/15.
+  Copyright © 2015 Matrid. All rights reserved.
+*/
+"WORKOUT_PLANS" = "Workout Plans";
+"DIET_PLANS" = "Diet Plans";
+"STATICS" = "Statistics";
+"RECOMMEND_UPPLIMENTS" = "Recommend Supplements";
+"APPOINTMENTS" = "Appointments";
+"ABOUT_CLIENTS" = "About Client";

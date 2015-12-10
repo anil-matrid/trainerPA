@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Weights:"; ObjectID = "5fW-sT-Flk"; */
+"5fW-sT-Flk.text" = "Masa ciała:";
+
+/* Class = "UILabel"; text = "Speed:"; ObjectID = "9Ko-If-lEr"; */
+"9Ko-If-lEr.text" = "Prędkość:";
+
+/* Class = "UILabel"; text = "5 kg"; ObjectID = "FFH-YM-mcF"; */
+"FFH-YM-mcF.text" = "5 kg";
+
+/* Class = "UILabel"; text = "Easy"; ObjectID = "L5u-dA-8Q2"; */
+"L5u-dA-8Q2.text" = "Easy";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "X3e-oA-Ued"; */
+"X3e-oA-Ued.text" = "Label";
+
+/* Class = "UILabel"; text = "Exercise Name"; ObjectID = "aET-Af-2py"; */
+"aET-Af-2py.text" = "Exercise Name";
+
+/* Class = "UILabel"; text = "Time:"; ObjectID = "lsI-1R-pNg"; */
+"lsI-1R-pNg.text" = "Czas:";
+
+/* Class = "UILabel"; text = "Reps:"; ObjectID = "p84-rl-0QL"; */
+"p84-rl-0QL.text" = "Powtórzenia:";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "pvf-Bk-5zu"; */
+"pvf-Bk-5zu.text" = "1";

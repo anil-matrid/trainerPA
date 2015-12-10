@@ -1,0 +1,200 @@
+//  Constants.h
+//  Wellbeing Network
+//
+//  Created by Chris on 05/09/2014.
+//  Copyright (c) 2014 Wellbeing Network. All rights reserved.
+
+
+
+#import <CoreGraphics/CoreGraphics.h>
+#import <AVFoundation/AVFoundation.h>
+#import <UIKit/UIKit.h>
+#import "GAI.h"
+#import "GAIFields.h"
+#import "GAITracker.h"
+#import "GAIDictionaryBuilder.h"
+#import "tgmath.h"
+#import "calenderViewController.h"
+#import "ViewPagerController.h"
+#import "Globals.h"
+#import "SDImageCache.h"
+#import "tVateApi.h"
+#import "AppointmentScreen.h"
+#import "MyStatsCustomCell.h"
+#import "clientInfoControllerCell.h"
+#import "dietFooterCell.h"
+#import "MBProgressHUD.h"
+#import "SingletonClass.h"
+#import "MyStatFooterCell.h"
+#import "rightMenuController.h"
+#import "aboutClientCusromCell.h"
+#import "HomeScreenController.h"
+#import "SlideNavigationController.h"
+#import "AFHTTPRequestOperationManager.h"
+#import "CustomCellDietPlanCustom.h"
+#import "DietPlanController.h"
+#import "requsetManagementController.h"
+#import "CustomTableDiet.h"
+#import "DietPlanCustomiseController1.h"
+#import "LibraryController.h"
+#import "DietPlanCustonise.h"
+#import "SentToClientController.h"
+#import "CreateDietPlan.h"
+#import "CreateDietCustomCell.h"
+#import "breakFastFooterCustomCell.h"
+#import "DietPlanIndividual.h"
+#import "MyStats.h"
+#import "MyClientController.h"
+#import "AddBodyStats.h"
+#import "recommendShopController.h"
+#import "BasicController.h"
+#import "BMIController.h"
+#import "SMController.h"
+#import "SkinFoldController.h"
+#import "BFController.h"
+#import "supplementsCustomCell.h"
+#import "aboutClientInfoUpdationViewController.h"
+#import "AboutClintController.h"
+#import "sentToClientCustomCell.h"
+#import "ClientHomeScreen.h"
+#import "CustomRecommendCellTableViewCell.h"
+#import "recommend.h"
+#import "SettingController.h"
+#import "DisconnectTrainer.h"
+#import "addProfileController.h"
+#import "CreateAccountController.h"
+#import "MainScreenController.h"
+#import "RegisterController.h"
+#import "LoginContoller.h"
+#import "TraineeregisterController.h"
+#import "AccountTypeController.h"
+#import "CustomCellMyClient.h"
+#import "ClientsInformationController.h"
+#import "howActiveYouAre.h"
+#import "fitnessGoals.h"
+#import "clientsbasicInfo.h"
+#import "SetReminderController.h"
+#import "SetReminderController2.h"
+#import "SetReminderController3.h"
+#import "VideoPlayerController.h"
+#import "setRecommendReminder.h"
+#import "AppDelegate.h"
+#import "ProductRecommend.h"
+#import "messagesMainChatController.h"
+#import "trainerCustomChatCell.h"
+#import "clientCustomChatCell.h"
+#import "clientListViewCell.h"
+#import "messagesController.h"
+#import "trainerImageCell.h"
+#import "setRecommendReminder.h"
+#import "WhiteRaccoon.h"
+#import "recommendBundleEditing.h"
+#import "recommendReminderController.h"
+#import "CreateNewDietPlanController.h"
+#import "dietPlanCustomDietPlan.h"
+#import "shopController.h"
+#import "ReminderView.h"
+#import "shopSubCategoryViewController.h"
+#import "workoutController.h"
+#import "shopCustomCellControllerTableViewCell.h"
+#import "shopProductController.h"
+#import "shopSubSubCategoryController.h"
+#import "shopCheckoutController.h"
+#import "aboutFooter.h"
+#import "aboutHeader.h"
+#import "trainerSettings.h"
+#import "aboutGoals.h"
+#import "forgetPassword.h"
+#import "DateAppointments.h"
+#import "SettingController.h"
+#import "ChangeEmailGetCode.h"
+#import "changeEmail.h"
+#import "dietReminder.h"
+#import "dietHeadder.h"
+#import "dietFoodCell.h"
+#import "ChangePasswordTrainer.h"
+#import "clearChatTrainer.h"
+
+
+#define kCachedImagesFolder @"Attachments"
+#define kGoogleAnalyticsID @"UA-70890024-1"
+#ifndef Wellbeing_Network_Constants_h
+#define Wellbeing_Network_Constants_h
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#define IS_IPHONE (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_RETINA ([[UIScreen mainScreen] scale] >= 2.0)
+
+#define SCREEN_WIDTH ([[UIScreen mainScreen] bounds].size.width)
+#define SCREEN_HEIGHT ([[UIScreen mainScreen] bounds].size.height)
+#define SCREEN_MAX_LENGTH (MAX(SCREEN_WIDTH, SCREEN_HEIGHT))
+#define SCREEN_MIN_LENGTH (MIN(SCREEN_WIDTH, SCREEN_HEIGHT))
+#define IS_IPHONE_4_OR_LESS (IS_IPHONE && SCREEN_MAX_LENGTH < 568.0)
+#define IS_IPHONE_5_OR_MORE (IS_IPHONE && SCREEN_MAX_LENGTH >= 568.0)
+#define kApiDomin @"http://dev.wellbeingnetwork.com/trainervate/api/"
+#define kApiDomin2 @"http://dev.wellbeingnetwork.com/trainervate2/api/"
+#define kApiDomin3 @"http://dev.wellbeingnetwork.com/trainervate3/api/"
+#define kApiDominStage @"http://dev.wellbeingnetwork.com/trainervat_staging/api/"
+#define kFTPUploadLink @"http://dev.wellbeingnetwork.com/cpanel/trainervate/uploads"
+#define kFTPUserID @"dev"
+#define kFTPPassword @"bSJ#z8#=%76&"
+
+
+
+#pragma mark- Url**********************************************************************************
+
+#define kUrlRemoveRecommendationBundles @"RemoveRecommendationBundles/"
+#define kUrlGenerateApiKey @"generatekey"
+#define kUrlLoign @"login?key="
+#define kUrlRegister @"register?key="
+#define kUrlGetuser @"getuser/"
+#define kUrlsendRequest @"sendRequest/"
+#define kUrlGetdietplan @"getdietplanall/"
+#define KUrlGetTrainersClient @"gettrainerclients/"
+#define kUrlUpadteTrannerProfile @"settrainerprofile/"
+#define KUrlGetDietPlansLibrary @"getdietplanlibrariesall/"
+#define KUrlGetDietMeals @"getdietmeals/"
+#define KUrlGetClientProfile @"gettrainerclients/"
+#define KUrlCreateUserProfile @"createuserprofile/"
+#define KUrlCreateUserAccount @"createuseraccount/"
+#define KUrlCreateclientbodybasic @"createclientbodybasic/"
+#define KUrlcreateclientbodybmi @"createclientbodybmi/"
+#define KUrlcreateclientbodyskinsm @"createclientbodyskinsm/"
+#define KUrlcreateclientbodyskinfold @"createclientbodyskinfold/"
+#define KUrlcreateclientbodybf @"createclientbodybf/"
+#define KUrltrainerSendMessages @"trainersendmessage/"
+#define KUrltrainerGetmessages @"getmessages/"
+#define KUrlgetDietFood @"getdietfoods/"
+#define KUrlgetDefaultPlans @"getdefaultplans/"
+#define KUrlgetProduct @"getproduct?pid="
+#define KUrlcreateDietPlan @"createdietplan/"
+#define KUrlcreateDietMeal @"createdietmeal/"
+#define KUrlcreateDietMealEntry @"createdietmealentry/"
+#define KUrladdCustomExercise @"addCustomExercise/"
+#define KurlgetWorkoutWithCategory @"getWorkoutWithCategory/"
+#define KurladdCustomWorkout @"addCustomWorkout/"
+#define KurlgetBundleProducts @"getBundleProducts/"
+#define KurlgetBundleProductsEdits @"getBundleProductsEdits/"
+#define KurlCheckRecommendationToReminder @"CheckRecommendationToReminder/"
+#define KurlUpdateRecommendationReminder @"UpdateRecommendation_reminder/"
+#define KurlsetRecommendationToReminder @"setRecommendationToReminder/"
+#define KurlsetaddExerciseToRecommendedWorkouts @"addExerciseToRecommendedWorkouts/"
+#define KurlRecommendation @"Recommendation/"
+#define Kurlgetdietplanall @"getdietplanall/"
+#define Kurlgetdietcontents @"getdietcontents/"
+#define Kurlgetrecord @"getrecord/"
+#define KurlgetClientAppointment @"getClientAppointment/"
+#define Kurlupdate_alerts_To_Client @"update_alerts_To_Client/"
+#define kurlShopTokenInsert @"insert_tokens/"
+#define kurlShopTokenGet @"getToken/"
+#define kurlsetAppointment @"setAppointment/"
+
+
+//insert_tokens/
+#define KurlgenerateToken @"http://dev.wellbeingnetwork.com/api?call=cart&method=gettoken"
+#define KurlproductDetail @"http://dev.wellbeingnetwork.com/api/getproduct?pid="
+
+
+///trainervate/api/settrainerprofile/
+//getdietcontents
+
+#endif

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9060" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Lato-Italic.ttf">
+            <string>Lato-Italic</string>
+            <string>Lato-Italic</string>
+            <string>Lato-Italic</string>
+        </mutableArray>
+        <mutableArray key="Lato-Regular.ttf">
+            <string>Lato-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AboutClintController">
+            <connections>
+                <outlet property="bluredView" destination="leo-Xn-IFa" id="pvI-PR-zN6"/>
+                <outlet property="clientInfo" destination="KHy-2h-6OI" id="QXt-EZ-mhb"/>
+                <outlet property="daily" destination="Wo7-M4-85c" id="I7L-eL-cTB"/>
+                <outlet property="floatingButton" destination="4bU-05-nAs" id="3Xz-mI-AyP"/>
+                <outlet property="monthly" destination="Btf-be-qqK" id="Jjc-hz-ULF"/>
+                <outlet property="navigationBar" destination="YLh-zi-ZQG" id="EIA-1F-JMC"/>
+                <outlet property="reminder" destination="Ltx-HK-H9C" id="qfr-H7-gbp"/>
+                <outlet property="scrollVIew" destination="1dZ-9p-zQi" id="lpe-9A-enZ"/>
+                <outlet property="table" destination="HmG-jg-p98" id="aVh-df-OpR"/>
+                <outlet property="tblReminder" destination="GPJ-Sh-Ezy" id="n59-FK-kWW"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="viewToHide" destination="qvV-yB-KGN" id="aHL-TG-hJY"/>
+                <outlet property="weekly" destination="LbM-ge-tJ0" id="4sr-CK-8zE"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" delaysContentTouches="NO" canCancelContentTouches="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1dZ-9p-zQi">
+                    <rect key="frame" x="0.0" y="132" width="320" height="436"/>
+                    <subviews>
+                        <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" style="grouped" separatorStyle="none" allowsSelection="NO" rowHeight="25" sectionHeaderHeight="10" sectionFooterHeight="10" translatesAutoresizingMaskIntoConstraints="NO" id="GPJ-Sh-Ezy">
+                            <rect key="frame" x="320" y="4" width="320" height="428"/>
+                            <animations/>
+                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            <color key="sectionIndexBackgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <connections>
+                                <outlet property="dataSource" destination="-1" id="uSv-8g-y7x"/>
+                                <outlet property="delegate" destination="-1" id="Hjz-gM-fld"/>
+                            </connections>
+                        </tableView>
+                        <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" style="plain" separatorStyle="none" allowsSelection="NO" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="HmG-jg-p98">
+                            <rect key="frame" x="0.0" y="-2" width="321" height="438"/>
+                            <animations/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <connections>
+                                <outlet property="dataSource" destination="-1" id="UD5-gI-Gb2"/>
+                                <outlet property="delegate" destination="-1" id="ftD-xr-X1i"/>
+                            </connections>
+                        </tableView>
+                    </subviews>
+                    <animations/>
+                </scrollView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="newbg.png" translatesAutoresizingMaskIntoConstraints="NO" id="MnC-KL-Rsv">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="87"/>
+                    <animations/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5up-Sa-orc">
+                    <rect key="frame" x="1" y="29" width="52" height="52"/>
+                    <animations/>
+                    <state key="normal" image="sign_arrow.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="back:" destination="-1" eventType="touchUpInside" id="b3P-K0-0NE"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YLh-zi-ZQG">
+                    <rect key="frame" x="266" y="29" width="52" height="52"/>
+                    <animations/>
+                    <state key="normal" image="sign_menu.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="About Client" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p7D-hC-b9Z">
+                    <rect key="frame" x="103" y="55" width="115" height="21"/>
+                    <animations/>
+                    <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" tag="10" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KHy-2h-6OI" userLabel="Client Info">
+                    <rect key="frame" x="0.0" y="88" width="160" height="42"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="    Client Info">
+                        <color key="titleColor" red="0.1529411765" green="0.2470588235" blue="0.28235294119999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="TopBtns:" destination="-1" eventType="touchUpInside" id="Dy9-5g-tZb"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="11" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ltx-HK-H9C">
+                    <rect key="frame" x="160" y="88" width="160" height="42"/>
+                    <animations/>
+                    <color key="backgroundColor" red="0.89411764709999997" green="0.89411764709999997" blue="0.89411764709999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <state key="normal" title="    Reminders">
+                        <color key="titleColor" red="0.3803921569" green="0.45098039220000002" blue="0.47450980390000003" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="TopBtns:" destination="-1" eventType="touchUpInside" id="uyZ-dR-Oky"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pen1.png" translatesAutoresizingMaskIntoConstraints="NO" id="amI-Hm-cof">
+                    <rect key="frame" x="282" y="99" width="19" height="19"/>
+                    <animations/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="pen1.png" translatesAutoresizingMaskIntoConstraints="NO" id="7OX-Ok-WK9">
+                    <rect key="frame" x="125" y="99" width="19" height="19"/>
+                    <animations/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4bU-05-nAs">
+                    <rect key="frame" x="262" y="512" width="43" height="43"/>
+                    <animations/>
+                    <color key="backgroundColor" red="0.062745098040000002" green="0.18823529410000001" blue="0.25490196079999999" alpha="1" colorSpace="calibratedRGB"/>
+                    <state key="normal" image="pen3.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="floatingButton:" destination="-1" eventType="touchUpInside" id="eiI-6j-wUr"/>
+                    </connections>
+                </button>
+                <view alpha="0.25" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="leo-Xn-IFa">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <animations/>
+                    <color key="backgroundColor" red="0.08235294118" green="0.75294117650000003" blue="0.83529411760000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                </view>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qvV-yB-KGN">
+                    <rect key="frame" x="34" y="169" width="250" height="231"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LbM-ge-tJ0">
+                            <rect key="frame" x="38" y="144" width="174" height="26"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.58431372550000005" green="0.66274509800000003" blue="0.69411764710000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Lato-Italic" family="Lato" pointSize="15"/>
+                            <state key="normal" title="Weekly">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="weekly:" destination="-1" eventType="touchUpInside" id="pA3-83-wfd"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Btf-be-qqK">
+                            <rect key="frame" x="38" y="185" width="174" height="26"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.58431372550000005" green="0.66274509800000003" blue="0.69411764710000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Lato-Italic" family="Lato" pointSize="15"/>
+                            <state key="normal" title="Monthly">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="monthly:" destination="-1" eventType="touchUpInside" id="I9M-PR-tmk"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="49o-qX-ahM">
+                            <rect key="frame" x="200" y="14" width="35" height="21"/>
+                            <animations/>
+                        </imageView>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wo7-M4-85c">
+                            <rect key="frame" x="38" y="101" width="174" height="26"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.58431372550000005" green="0.66274509800000003" blue="0.69411764710000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Lato-Italic" family="Lato" pointSize="15"/>
+                            <state key="normal" title="Daily">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="daily:" destination="-1" eventType="touchUpInside" id="VWa-9u-zCh"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1oD-fW-wQ4">
+                            <rect key="frame" x="0.0" y="0.0" width="35" height="35"/>
+                            <animations/>
+                            <state key="normal" image="cross.png">
+                                <color key="titleColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="btnCancel:" destination="-1" eventType="touchUpInside" id="XcN-h5-2v6"/>
+                            </connections>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Update client's reminders!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D2V-fK-rTd">
+                            <rect key="frame" x="8" y="41" width="228" height="52"/>
+                            <animations/>
+                            <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="18"/>
+                            <color key="textColor" red="0.058823529409999999" green="0.1843137255" blue="0.25098039220000001" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" red="0.89411764709999997" green="0.89411764709999997" blue="0.89411764709999997" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="-112" y="-49"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="cross.png" width="11" height="11"/>
+        <image name="logo.png" width="35" height="21"/>
+        <image name="newbg.png" width="320" height="87"/>
+        <image name="pen1.png" width="19" height="19"/>
+        <image name="pen3.png" width="19" height="19"/>
+        <image name="sign_arrow.png" width="15" height="38"/>
+        <image name="sign_menu.png" width="26" height="22"/>
+    </resources>
+</document>

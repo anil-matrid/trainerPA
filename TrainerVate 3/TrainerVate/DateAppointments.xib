@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9060" systemVersion="15B42" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9051"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Lato-Medium.ttf">
+            <string>Lato-Medium</string>
+        </mutableArray>
+        <mutableArray key="Lato-MediumItalic.ttf">
+            <string>Lato-MediumItalic</string>
+            <string>Lato-MediumItalic</string>
+        </mutableArray>
+        <mutableArray key="Lato-Regular.ttf">
+            <string>Lato-Regular</string>
+            <string>Lato-Regular</string>
+            <string>Lato-Regular</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DateAppointments">
+            <connections>
+                <outlet property="add" destination="IME-M5-5u8" id="rMR-YU-AO6"/>
+                <outlet property="appointmentView" destination="5gt-IP-52h" id="0P3-vf-GfB"/>
+                <outlet property="bluredView" destination="ZR6-by-Mi4" id="Kbi-eA-KYt"/>
+                <outlet property="bookAppointment" destination="aDc-4e-fY4" id="GTR-CN-Tkj"/>
+                <outlet property="bookTimeOff" destination="afh-X3-UMf" id="paO-Ke-O4E"/>
+                <outlet property="calendarView" destination="15j-h1-jkD" id="pIb-rp-GIe"/>
+                <outlet property="day" destination="GSj-d0-dFg" id="zLQ-WI-Y18"/>
+                <outlet property="month" destination="Ryz-kn-fuK" id="rI7-U8-t6n"/>
+                <outlet property="navigationBar" destination="ghc-65-B8i" id="ldO-zX-VT7"/>
+                <outlet property="pickerDate" destination="QjR-la-Vbm" id="ARm-J3-iWd"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="year" destination="2eB-Y8-gSj" id="HS8-hN-lVy"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <datePicker contentMode="center" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" datePickerMode="date" minuteInterval="1" useCurrentDate="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QjR-la-Vbm">
+                    <rect key="frame" x="0.0" y="72" width="320" height="162"/>
+                    <animations/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <date key="date" timeIntervalSinceReferenceDate="464603580.427679">
+                        <!--2015-09-22 08:33:00 +0000-->
+                    </date>
+                    <date key="minimumDate" timeIntervalSinceReferenceDate="-954680400">
+                        <!--1970-10-01 11:00:00 +0000-->
+                    </date>
+                    <locale key="locale" localeIdentifier="en_IN"/>
+                </datePicker>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GF2-sX-1oF">
+                    <rect key="frame" x="1" y="106" width="319" height="32"/>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="uptriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="Llx-Br-KlZ">
+                    <rect key="frame" x="33" y="116" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="uptriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="n3E-Iw-hYG">
+                    <rect key="frame" x="251" y="116" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="uptriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="BP2-ZY-h2e">
+                    <rect key="frame" x="139" y="116" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <label userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="i6y-h4-BPw">
+                    <rect key="frame" x="0.0" y="166" width="320" height="38"/>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <color key="highlightedColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="downtriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="9qe-wt-Cx7">
+                    <rect key="frame" x="251" y="181" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="downtriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="g9m-uV-uOP">
+                    <rect key="frame" x="139" y="181" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Mcb-od-XkY">
+                    <rect key="frame" x="1" y="0.0" width="319" height="107"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="newbg.png" translatesAutoresizingMaskIntoConstraints="NO" id="IZM-G6-QfP">
+                            <rect key="frame" x="-1" y="0.0" width="320" height="87"/>
+                            <animations/>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Appointments" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AAS-W9-E2J">
+                            <rect key="frame" x="74" y="55" width="179" height="21"/>
+                            <animations/>
+                            <fontDescription key="fontDescription" name="Lato-Medium" family="Lato" pointSize="20"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ghc-65-B8i">
+                            <rect key="frame" x="265" y="29" width="52" height="52"/>
+                            <animations/>
+                            <state key="normal" image="sign_menu.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bUA-QY-9mo">
+                            <rect key="frame" x="1" y="29" width="48" height="52"/>
+                            <animations/>
+                            <state key="normal" image="sign_arrow.png">
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="back:" destination="-1" eventType="touchUpInside" id="zOb-ec-21W"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="downtriangle.png" translatesAutoresizingMaskIntoConstraints="NO" id="rQ1-8x-d7S">
+                    <rect key="frame" x="33" y="181" width="19" height="8"/>
+                    <animations/>
+                </imageView>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="15j-h1-jkD" customClass="DDCalendarView">
+                    <rect key="frame" x="1" y="203" width="319" height="315"/>
+                    <animations/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="fOC-6E-hBr"/>
+                        <outlet property="delegate" destination="-1" id="JuE-uH-ceu"/>
+                    </connections>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="footernewbg.png" translatesAutoresizingMaskIntoConstraints="NO" id="uxB-YU-HQi">
+                    <rect key="frame" x="0.0" y="517" width="320" height="52"/>
+                    <animations/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IME-M5-5u8">
+                    <rect key="frame" x="0.0" y="517" width="320" height="52"/>
+                    <animations/>
+                    <state key="normal" image="sign_plus.png">
+                        <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="addAppointMent:" destination="-1" eventType="touchUpInside" id="hku-DH-xUC"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="year" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2eB-Y8-gSj">
+                    <rect key="frame" x="204" y="137" width="116" height="29"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="20"/>
+                    <color key="textColor" red="0.1137254902" green="0.2156862745" blue="0.27450980390000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="day" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GSj-d0-dFg">
+                    <rect key="frame" x="1" y="137" width="82" height="29"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="20"/>
+                    <color key="textColor" red="0.1137254902" green="0.2156862745" blue="0.27450980390000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="month" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ryz-kn-fuK">
+                    <rect key="frame" x="83" y="137" width="130" height="29"/>
+                    <animations/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <fontDescription key="fontDescription" name="Lato-Regular" family="Lato" pointSize="20"/>
+                    <color key="textColor" red="0.1137254902" green="0.2156862745" blue="0.27450980390000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" alpha="0.25" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ZR6-by-Mi4">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <animations/>
+                    <color key="backgroundColor" red="0.57254901960000004" green="0.87843137250000003" blue="0.91372549020000005" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+                <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5gt-IP-52h">
+                    <rect key="frame" x="27" y="204" width="264" height="159"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="afh-X3-UMf">
+                            <rect key="frame" x="47" y="114" width="170" height="25"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.5233637176" green="0.59578639369999997" blue="0.62816575600000002" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Lato-MediumItalic" family="Lato" pointSize="17"/>
+                            <state key="normal" title="Book Time Off">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" red="0.52156862749999999" green="0.59607843140000005" blue="0.62745098040000002" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="bookTimeOff:" destination="-1" eventType="touchUpInside" id="nhh-0n-oWt"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aDc-4e-fY4">
+                            <rect key="frame" x="47" y="72" width="170" height="25"/>
+                            <animations/>
+                            <color key="backgroundColor" red="0.5233637176" green="0.59578639369999997" blue="0.62816575600000002" alpha="1" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Lato-MediumItalic" family="Lato" pointSize="17"/>
+                            <state key="normal" title="Book Appointment">
+                                <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" red="0.52156862749999999" green="0.59607843140000005" blue="0.62745098040000002" alpha="1" colorSpace="calibratedRGB"/>
+                            </state>
+                            <connections>
+                                <action selector="bookAppointment:" destination="-1" eventType="touchUpInside" id="N1z-hK-i2J"/>
+                            </connections>
+                        </button>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="3bi-Tn-uLs">
+                            <rect key="frame" x="213" y="13" width="35" height="21"/>
+                            <animations/>
+                        </imageView>
+                    </subviews>
+                    <animations/>
+                    <color key="backgroundColor" red="0.91372549020000005" green="0.91372549020000005" blue="0.91372549020000005" alpha="1" colorSpace="calibratedRGB"/>
+                </view>
+            </subviews>
+            <animations/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="-54" y="95"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="downtriangle.png" width="19" height="8"/>
+        <image name="footernewbg.png" width="320" height="52"/>
+        <image name="logo.png" width="35" height="21"/>
+        <image name="newbg.png" width="320" height="87"/>
+        <image name="sign_arrow.png" width="15" height="38"/>
+        <image name="sign_menu.png" width="26" height="22"/>
+        <image name="sign_plus.png" width="12" height="11"/>
+        <image name="uptriangle.png" width="19" height="8"/>
+    </resources>
+</document>

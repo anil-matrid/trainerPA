@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Do you want to set a reminder?"; ObjectID = "2z2-K7-HfI"; */
+"2z2-K7-HfI.text" = "Czy chcesz ustawić resztę ?";
+
+/* Class = "UIButton"; normalTitle = "Set Reminders"; ObjectID = "2zt-eo-JnN"; */
+"2zt-eo-JnN.normalTitle" = "Ustaw przypomnienie";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "3UJ-cL-G8K"; */
+"3UJ-cL-G8K.text" = "Błąd";
+
+/* Class = "UITextField"; placeholder = "lbs"; ObjectID = "PIP-2D-TNN"; */
+"PIP-2D-TNN.placeholder" = "kilogramy";
+
+/* Class = "UILabel"; text = "Injuries:"; ObjectID = "Twp-Ku-4kW"; */
+"Twp-Ku-4kW.text" = "Kontuzje:";
+
+/* Class = "UILabel"; text = "Your client information has been saved."; ObjectID = "ZDr-5g-OcS"; */
+"ZDr-5g-OcS.text" = "Twoje informacje o kliencie został zapisany.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "a3K-90-R18"; */
+"a3K-90-R18.normalTitle" = "Gotowe";
+
+/* Class = "UILabel"; text = "   Weight"; ObjectID = "bdd-ng-j4i"; */
+"bdd-ng-j4i.text" = "   Waga:";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "fIr-BE-fzQ"; */
+"fIr-BE-fzQ.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "   Height"; ObjectID = "lAv-Az-Yeq"; */
+"lAv-Az-Yeq.text" = "   Wysokość:";
+
+/* Class = "UILabel"; text = "Can Do:"; ObjectID = "mZe-V3-NAk"; */
+"mZe-V3-NAk.text" = "Mogę zrobić:";
+
+/* Class = "UILabel"; text = "Client's information"; ObjectID = "oju-AA-qnr"; */
+"oju-AA-qnr.text" = "Klient's Informacje";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "rzo-7Q-oYf"; */
+"rzo-7Q-oYf.normalTitle" = "Zakończ";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "wGo-0Q-kwo"; */
+"wGo-0Q-kwo.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Can't Do:"; ObjectID = "zGk-Of-lMz"; */
+"zGk-Of-lMz.text" = "Nie mogę zrobić:";

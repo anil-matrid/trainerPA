@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Arm size"; ObjectID = "10Y-Ww-2uz"; */
+"10Y-Ww-2uz.text" = "Wymiar ręki";
+
+/* Class = "UILabel"; text = "Waist size"; ObjectID = "1x0-gw-x4p"; */
+"1x0-gw-x4p.text" = "Wymiary Tal";
+
+/* Class = "UILabel"; text = "Leg size"; ObjectID = "2xz-0K-RPi"; */
+"2xz-0K-RPi.text" = "Wymiar nogi";
+
+/* Class = "UILabel"; text = "Set Reminders"; ObjectID = "4fq-sD-N4N"; */
+"4fq-sD-N4N.text" = "Przypomnienie o aktualizacji";
+
+/* Class = "UILabel"; text = "Body fat %"; ObjectID = "Eio-j4-h6u"; */
+"Eio-j4-h6u.text" = "Masa Tłuszczowa %";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "Jzz-zp-9Xs"; */
+"Jzz-zp-9Xs.text" = "Waga";
+
+/* Class = "UILabel"; text = "Water %"; ObjectID = "LoY-0P-Ef5"; */
+"LoY-0P-Ef5.text" = "Woda %";
+
+/* Class = "UILabel"; text = "Bone mass"; ObjectID = "LsF-vG-3Qs"; */
+"LsF-vG-3Qs.text" = "Masa kości";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Mji-Xa-iB4"; */
+"Mji-Xa-iB4.normalTitle" = "Gotowe";
+
+/* Class = "UILabel"; text = "Monthly Body Measurements"; ObjectID = "ZiO-1T-bTG"; */
+"ZiO-1T-bTG.text" = "Miesięczne wymiary ciała";
+
+/* Class = "UILabel"; text = "Physical rating"; ObjectID = "daW-Mg-Way"; */
+"daW-Mg-Way.text" = "Ocena fizycznych";
+
+/* Class = "UILabel"; text = "Chest size"; ObjectID = "we9-Zt-C3I"; */
+"we9-Zt-C3I.text" = "Wymiar klatki piersiowe";

@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "What are your fitness goals?"; ObjectID = "0lq-2g-2Po"; */
+"0lq-2g-2Po.text" = "Jakie są Twoje cele fitness?";
+
+/* Class = "UILabel"; text = "Please select atleast one Goal!"; ObjectID = "214-69-K69"; */
+"214-69-K69.text" = "Please select atleast one Goal!";
+
+/* Class = "UILabel"; text = "Client's Information"; ObjectID = "BOr-ed-N5r"; */
+"BOr-ed-N5r.text" = "Klient's Informacje";
+
+/* Class = "UILabel"; text = "Tone muscles"; ObjectID = "OS8-zb-pEt"; */
+"OS8-zb-pEt.text" = "Wymodeluj mięśnie";
+
+/* Class = "UILabel"; text = "Target lower body"; ObjectID = "OU0-Dw-g7E"; */
+"OU0-Dw-g7E.text" = "Cel - dolna części ciała";
+
+/* Class = "UILabel"; text = "Target upper body"; ObjectID = "PSS-Xq-YH3"; */
+"PSS-Xq-YH3.text" = "Cel - górna części ciała";
+
+/* Class = "UILabel"; text = "Lose weight"; ObjectID = "TY9-yd-huF"; */
+"TY9-yd-huF.text" = "Schudnij";
+
+/* Class = "UILabel"; text = "Improve flexibility"; ObjectID = "YxO-HP-q8r"; */
+"YxO-HP-q8r.text" = "Popraw elastycznośći";
+
+/* Class = "UILabel"; text = "Strengthen core"; ObjectID = "f6T-gi-Dkx"; */
+"f6T-gi-Dkx.text" = "Wzmocnij kręgosłup";
+
+/* Class = "UILabel"; text = "Improve endurance"; ObjectID = "fdb-ue-XM1"; */
+"fdb-ue-XM1.text" = "Popraw wytrzymałość";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "izm-5x-SvD"; */
+"izm-5x-SvD.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Build muscles"; ObjectID = "mYB-EP-T1Y"; */
+"mYB-EP-T1Y.text" = "Budowanie mięśni";

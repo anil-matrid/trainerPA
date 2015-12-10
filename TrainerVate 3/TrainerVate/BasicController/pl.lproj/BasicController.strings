@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Water %"; ObjectID = "099-gw-L1b"; */
+"099-gw-L1b.text" = "Woda %";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "0OQ-ju-FnJ"; */
+"0OQ-ju-FnJ.normalTitle" = "Pomiń";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "2lz-0O-xY9"; */
+"2lz-0O-xY9.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "9Q3-SI-Wid"; */
+"9Q3-SI-Wid.placeholder" = "%";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "CaI-KI-l2F"; */
+"CaI-KI-l2F.placeholder" = "%";
+
+/* Class = "UITextField"; placeholder = "lbs"; ObjectID = "DT8-LL-Ema"; */
+"DT8-LL-Ema.placeholder" = "kiligrama";
+
+/* Class = "UILabel"; text = "Chest size"; ObjectID = "EBa-CX-6mZ"; */
+"EBa-CX-6mZ.text" = "Wymiar klatki piersiowej";
+
+/* Class = "UILabel"; text = "Body fat %"; ObjectID = "Kqq-DA-Iwo"; */
+"Kqq-DA-Iwo.text" = "Masa Tłuszczowa %";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "Mt4-IZ-ew3"; */
+"Mt4-IZ-ew3.text" = "Waga";
+
+/* Class = "UILabel"; text = "Basic Stats"; ObjectID = "OEr-j0-q7V"; */
+"OEr-j0-q7V.text" = "Podstawowa statystyka";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "QAO-ig-R7q"; */
+"QAO-ig-R7q.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Waist size"; ObjectID = "TIR-hs-Anv"; */
+"TIR-hs-Anv.text" = "Wymiary Tali";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "VSf-cF-V7I"; */
+"VSf-cF-V7I.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "i9I-An-f1E"; */
+"i9I-An-f1E.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "mt0-io-itZ"; */
+"mt0-io-itZ.text" = "Select Diet Plan from";
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "ntP-c1-B7o"; */
+"ntP-c1-B7o.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UILabel"; text = "Arm size"; ObjectID = "u5l-5e-kCo"; */
+"u5l-5e-kCo.text" = "Wymiar ręki";
+
+/* Class = "UILabel"; text = "Leg size"; ObjectID = "w4f-5Q-chS"; */
+"w4f-5Q-chS.text" = "Wymiar nogi";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "xTC-Sn-T6L"; */
+"xTC-Sn-T6L.placeholder" = "cm";

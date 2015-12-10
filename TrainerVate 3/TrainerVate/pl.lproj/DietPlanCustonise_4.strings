@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "T7M-Nz-8YX"; */
+"T7M-Nz-8YX.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "cdi-4n-4gx"; */
+"cdi-4n-4gx.text" = "Zwyczajowy plan żywieniowy";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "zgp-1w-gvZ"; */
+"zgp-1w-gvZ.text" = "Please select at-least one product";

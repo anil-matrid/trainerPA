@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "00h-So-pGe"; */
+"00h-So-pGe.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Leg - r"; ObjectID = "3La-a3-I6C"; */
+"3La-a3-I6C.text" = "Noga-p";
+
+/* Class = "UILabel"; text = "Arm - r"; ObjectID = "51u-Ug-3Ze"; */
+"51u-Ug-3Ze.text" = "Ręka-p";
+
+/* Class = "UILabel"; text = "Arm - l"; ObjectID = "FAP-eD-bhs"; */
+"FAP-eD-bhs.text" = "Ręka-l";
+
+/* Class = "UILabel"; text = "SM"; ObjectID = "KoM-gf-fSJ"; */
+"KoM-gf-fSJ.text" = "SM";
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "Krq-Mh-Niu"; */
+"Krq-Mh-Niu.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "LND-xD-IFg"; */
+"LND-xD-IFg.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "Yy4-uB-5cD"; */
+"Yy4-uB-5cD.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Trunk"; ObjectID = "Zl2-jd-KBW"; */
+"Zl2-jd-KBW.text" = "Korpus";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "aiO-oV-ufa"; */
+"aiO-oV-ufa.normalTitle" = "Pomiń";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "hdp-3Z-wi5"; */
+"hdp-3Z-wi5.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Leg - l"; ObjectID = "kwn-Jw-XKc"; */
+"kwn-Jw-XKc.text" = "Noga-l";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "qPU-us-4qX"; */
+"qPU-us-4qX.text" = "Select Diet Plan from";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "rea-Dh-D3X"; */
+"rea-Dh-D3X.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "sEN-Qf-vLj"; */
+"sEN-Qf-vLj.placeholder" = "cm";

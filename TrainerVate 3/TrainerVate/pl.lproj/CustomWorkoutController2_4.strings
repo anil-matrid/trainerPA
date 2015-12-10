@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Custom Workout"; ObjectID = "6gy-bH-Od3"; */
+"6gy-bH-Od3.text" = "Typowy trening";
+
+/* Class = "UIButton"; normalTitle = "Create another"; ObjectID = "8Qe-bE-zfZ"; */
+"8Qe-bE-zfZ.normalTitle" = "Stwórz inny";
+
+/* Class = "UILabel"; text = "No Workouts yet."; ObjectID = "HXD-g1-ec3"; */
+"HXD-g1-ec3.text" = "Brak treningów jeszcze.";

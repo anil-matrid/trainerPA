@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Custom Diet"; ObjectID = "8Gh-E0-oem"; */
+"8Gh-E0-oem.normalTitle" = "Typowy plan żywieniowy";
+
+/* Class = "UILabel"; text = "Do you really want to remove?"; ObjectID = "Aym-Yb-y7T"; */
+"Aym-Yb-y7T.text" = "Czy na pewno chcesz usunąć ten Plan Żywieniowy ?";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "Bra-hP-r4W"; */
+"Bra-hP-r4W.text" = "Wybierz plan żywieniowy z";
+
+/* Class = "UILabel"; text = "My Clients - Diet plan"; ObjectID = "QMr-s5-7rB"; */
+"QMr-s5-7rB.text" = "My Clients - Diet plan";
+
+/* Class = "UIButton"; normalTitle = "Library"; ObjectID = "SbK-h4-y5i"; */
+"SbK-h4-y5i.normalTitle" = "Biblioteka";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "VMH-Fd-o07"; */
+"VMH-Fd-o07.normalTitle" = "Tak";
+
+/* Class = "UILabel"; text = "No diet plans yet!"; ObjectID = "cGY-Sq-Mee"; */
+"cGY-Sq-Mee.text" = "Brak Planów żywieniowych!";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "oK2-lw-uM7"; */
+"oK2-lw-uM7.normalTitle" = "Nie";

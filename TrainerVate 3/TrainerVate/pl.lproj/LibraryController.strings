@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "Search Diet Plan"; ObjectID = "2e5-8C-T26"; */
+"2e5-8C-T26.placeholder" = "Poszukaj planu żywnienowego";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "7Ec-ZJ-UoZ"; */
+"7Ec-ZJ-UoZ.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "Diet Plan Library"; ObjectID = "Thq-d6-Sgy"; */
+"Thq-d6-Sgy.text" = "Biblioteka Planu żywieniowego";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "geT-hu-rSy"; */
+"geT-hu-rSy.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Diet Plan has been sent to your client."; ObjectID = "wmy-ge-dib"; */
+"wmy-ge-dib.text" = "Dieta została wysłana do klienta.";

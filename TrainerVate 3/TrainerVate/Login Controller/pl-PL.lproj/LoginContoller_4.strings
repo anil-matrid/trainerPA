@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "J0e-aP-tge"; */
+"J0e-aP-tge.text" = "Select Diet Plan from";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NGc-Ff-Knw"; */
+"NGc-Ff-Knw.text" = "Label";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "OG2-ed-fhe"; */
+"OG2-ed-fhe.text" = "Hasło:";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "Rd2-ID-SOz"; */
+"Rd2-ID-SOz.text" = "Zaloguj się";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "Rol-8p-P4V"; */
+"Rol-8p-P4V.normalTitle" = "Zapomniałeś hasła?";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "Tay-TM-pS8"; */
+"Tay-TM-pS8.text" = "E-mail:";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "WfY-IR-BYV"; */
+"WfY-IR-BYV.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "T  R  A  I  N  E  R  V  A  T  E"; ObjectID = "vJn-En-ZL1"; */
+"vJn-En-ZL1.text" = "T  R  A  I  N  E  R  V  A  T  E";

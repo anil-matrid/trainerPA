@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "0c7-vT-Vzi"; */
+"0c7-vT-Vzi.text" = "Wiek:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "1xl-d4-vCr"; */
+"1xl-d4-vCr.text" = "Imię:";
+
+/* Class = "UILabel"; text = "Sex:"; ObjectID = "95c-vl-24R"; */
+"95c-vl-24R.text" = "Płeć:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "YBS-y5-fEp"; */
+"YBS-y5-fEp.text" = "E-mail:";

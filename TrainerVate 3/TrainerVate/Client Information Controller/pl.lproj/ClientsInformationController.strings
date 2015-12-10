@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "6uy-Re-tW6"; */
+"6uy-Re-tW6.text" = "Wiek:";
+
+/* Class = "UILabel"; text = "Client's Information"; ObjectID = "8pZ-Mc-M6w"; */
+"8pZ-Mc-M6w.text" = "Klient's Informacje";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "Bpk-P1-lFr"; */
+"Bpk-P1-lFr.text" = "Błąd!";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "OOx-9E-Op5"; */
+"OOx-9E-Op5.normalTitle" = "F";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "OaQ-D5-5TS"; */
+"OaQ-D5-5TS.text" = "Nazwa:";
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "Rfi-6f-bLD"; */
+"Rfi-6f-bLD.normalTitle" = "M";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "rON-JB-IQf"; */
+"rON-JB-IQf.text" = "E-mail:";
+
+/* Class = "UILabel"; text = "Sex:"; ObjectID = "z5e-X9-WS0"; */
+"z5e-X9-WS0.text" = "Płeć:";
+
+/* Class = "UILabel"; text = "Client registered successfully. Select OK to add further detail of client."; ObjectID = "zcS-vC-Eyj"; */
+"zcS-vC-Eyj.text" = "Klient zarejestrowany pomyślnie! Wybierz OK, aby dodać dalsze szczegóły klienta.";

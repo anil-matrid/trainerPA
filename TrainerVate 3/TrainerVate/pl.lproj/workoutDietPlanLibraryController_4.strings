@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Search Workouts"; ObjectID = "1KX-HQ-Yfa"; */
+"1KX-HQ-Yfa.placeholder" = "Szukaj treningów";
+
+/* Class = "UILabel"; text = "Workout Library"; ObjectID = "QB5-Fq-wvl"; */
+"QB5-Fq-wvl.text" = "Biblioteka treningów";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "rMy-MP-l8u"; */
+"rMy-MP-l8u.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "Sorry! Internal Server Error."; ObjectID = "vgs-5V-FGF"; */
+"vgs-5V-FGF.text" = "Przepraszam! Wewnętrzny Błąd Serwera.";

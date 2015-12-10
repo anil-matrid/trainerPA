@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Search exercise"; ObjectID = "JVv-cT-fsV"; */
+"JVv-cT-fsV.placeholder" = "Szukaj ćwiczenia";
+
+/* Class = "UILabel"; text = "Sorry! Internal Server Error."; ObjectID = "SWH-mY-QZ9"; */
+"SWH-mY-QZ9.text" = "Przepraszam! Wewnętrzny Błąd Serwera";
+
+/* Class = "UILabel"; text = "Exercises"; ObjectID = "i5X-tS-sKz"; */
+"i5X-tS-sKz.text" = "Ćwiczenia";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "z8s-EO-sBh"; */
+"z8s-EO-sBh.normalTitle" = "Szukanie";

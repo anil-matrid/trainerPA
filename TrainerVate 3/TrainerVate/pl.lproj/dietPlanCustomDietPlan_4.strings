@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "5ad-Zh-rf6"; */
+"5ad-Zh-rf6.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "What are you looking for?"; ObjectID = "Qjp-vB-CeU"; */
+"Qjp-vB-CeU.text" = "Brak znalezionych Planów żywieniowych!";
+
+/* Class = "UITextField"; placeholder = "search"; ObjectID = "a43-dJ-Zkm"; */
+"a43-dJ-Zkm.placeholder" = "Poszukaj planu żywnienowego";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "xFJ-Xx-lfF"; */
+"xFJ-Xx-lfF.text" = "Zwyczajowy plan żywieniowy";

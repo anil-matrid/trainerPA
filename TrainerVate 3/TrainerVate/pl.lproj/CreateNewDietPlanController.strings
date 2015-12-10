@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Create Diet Plan"; ObjectID = "25j-zP-frd"; */
+"25j-zP-frd.text" = "Tworzenie Planu Żywieniowego";
+
+/* Class = "UILabel"; text = "Name the dietplan bundle:"; ObjectID = "Au2-sR-eh0"; */
+"Au2-sR-eh0.text" = "Name the dietplan bundle:";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "Pr9-k4-biY"; */
+"Pr9-k4-biY.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Diet plan name can not be empty."; ObjectID = "eca-l9-hof"; */
+"eca-l9-hof.text" = "Dobowy Plan żywieniowy nie może być pusty!";

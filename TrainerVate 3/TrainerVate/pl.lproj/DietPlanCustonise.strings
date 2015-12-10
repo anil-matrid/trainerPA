@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "+   Add product"; ObjectID = "8ts-JT-hRp"; */
+"8ts-JT-hRp.normalTitle" = "+   Add product";
+
+/* Class = "UIButton"; normalTitle = "+   Add Supplement"; ObjectID = "SyU-8q-GDZ"; */
+"SyU-8q-GDZ.normalTitle" = "+   Add Supplement";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "lUR-4L-8C3"; */
+"lUR-4L-8C3.text" = "Zwyczajowy plan żywieniowy";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "vsK-fj-qIg"; */
+"vsK-fj-qIg.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "ySQ-pc-t1y"; */
+"ySQ-pc-t1y.text" = "Please select at-least one product";

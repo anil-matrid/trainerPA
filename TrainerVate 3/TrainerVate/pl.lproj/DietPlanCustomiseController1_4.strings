@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "Mr0-Gj-h6I"; */
+"Mr0-Gj-h6I.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "Wp1-Wd-Tpr"; */
+"Wp1-Wd-Tpr.text" = "Zwyczajowy plan żywieniowy";
+
+/* Class = "UILabel"; text = "No result found!"; ObjectID = "mJl-c7-gIv"; */
+"mJl-c7-gIv.text" = "Brak wyników!";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "tAn-kL-wus"; */
+"tAn-kL-wus.normalTitle" = "+";

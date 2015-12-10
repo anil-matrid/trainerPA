@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Proteins"; ObjectID = "0ns-rE-WBx"; */
+"0ns-rE-WBx.text" = "Białko";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1TU-5A-a8f"; */
+"1TU-5A-a8f.text" = "Label";
+
+/* Class = "UILabel"; text = "Diet Plan Snacks"; ObjectID = "3vp-Uu-g2c"; */
+"3vp-Uu-g2c.text" = "Pomysły na przekąskę";
+
+/* Class = "UILabel"; text = "Total Kcal"; ObjectID = "3yR-7r-LbI"; */
+"3yR-7r-LbI.text" = "Suma kcal";
+
+/* Class = "UILabel"; text = "Sugar"; ObjectID = "6OP-hI-diu"; */
+"6OP-hI-diu.text" = "Cukier";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "8uT-ne-DWI"; */
+"8uT-ne-DWI.text" = "Proszę wybrać przynajmniej jeden produkt lub suplement!";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "BTQ-8x-YY2"; */
+"BTQ-8x-YY2.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ChJ-Rh-lMm"; */
+"ChJ-Rh-lMm.text" = "Label";
+
+/* Class = "UILabel"; text = "Fibers"; ObjectID = "EnV-pS-EAo"; */
+"EnV-pS-EAo.text" = "Błonnik";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "FoY-Oa-rIy"; */
+"FoY-Oa-rIy.text" = "Kalorię";
+
+/* Class = "UILabel"; text = "Carbs"; ObjectID = "HbT-sX-2Ge"; */
+"HbT-sX-2Ge.text" = "Węglowodany";
+
+/* Class = "UILabel"; text = "How To Prepare"; ObjectID = "JJ6-GO-zM1"; */
+"JJ6-GO-zM1.text" = "Jak przygotować";
+
+/* Class = "UILabel"; text = "Salt"; ObjectID = "JTe-lw-cQq"; */
+"JTe-lw-cQq.text" = "Sól";
+
+/* Class = "UILabel"; text = "    Details"; ObjectID = "Jge-n7-CNK"; */
+"Jge-n7-CNK.text" = "    Szczegóły";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lwh-gC-Cs0"; */
+"Lwh-gC-Cs0.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M7z-Fl-TCd"; */
+"M7z-Fl-TCd.text" = "Label";
+
+/* Class = "UILabel"; text = "Kcal"; ObjectID = "Svs-hT-kIH"; */
+"Svs-hT-kIH.text" = "Kcal";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "h80-RR-HV6"; */
+"h80-RR-HV6.text" = "Label";
+
+/* Class = "UILabel"; text = "   0"; ObjectID = "juz-OU-IoB"; */
+"juz-OU-IoB.text" = "   0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kcR-3a-2KI"; */
+"kcR-3a-2KI.text" = "Label";
+
+/* Class = "UILabel"; text = "Fats"; ObjectID = "mfm-ey-CAm"; */
+"mfm-ey-CAm.text" = "Tłuszcze";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rEK-A6-oIb"; */
+"rEK-A6-oIb.text" = "Label";
+
+/* Class = "UILabel"; text = "Repeat"; ObjectID = "trU-Ka-LHc"; */
+"trU-Ka-LHc.text" = "Powtórz";
+
+/* Class = "UILabel"; text = "     Quantity"; ObjectID = "vZt-ru-dpG"; */
+"vZt-ru-dpG.text" = "     Ilość";

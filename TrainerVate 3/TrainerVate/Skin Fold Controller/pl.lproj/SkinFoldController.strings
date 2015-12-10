@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Abdominal"; ObjectID = "3aR-U9-en2"; */
+"3aR-U9-en2.text" = "Brzuszny";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "6lc-b8-c99"; */
+"6lc-b8-c99.normalTitle" = "Pomiń";
+
+/* Class = "UILabel"; text = "Thigh"; ObjectID = "C9e-o6-mXt"; */
+"C9e-o6-mXt.text" = "Udo";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "I2X-r6-Qhs"; */
+"I2X-r6-Qhs.text" = "Select Diet Plan from";
+
+/* Class = "UILabel"; text = "Pectoral"; ObjectID = "JgB-NA-6pR"; */
+"JgB-NA-6pR.text" = "Piersiowy";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "M15-TS-1cL"; */
+"M15-TS-1cL.placeholder" = "Jednostki";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "QJ6-Ek-kre"; */
+"QJ6-Ek-kre.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "The-Gk-A1H"; */
+"The-Gk-A1H.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "Uf4-9p-n3P"; */
+"Uf4-9p-n3P.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Skin Fold"; ObjectID = "Z87-Um-mvj"; */
+"Z87-Um-mvj.text" = "Fałd skórny";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "ZoE-xf-mVl"; */
+"ZoE-xf-mVl.placeholder" = "Jednostki";
+
+/* Class = "UITextField"; placeholder = "mm"; ObjectID = "ZvY-Uf-XNz"; */
+"ZvY-Uf-XNz.placeholder" = "mm";
+
+/* Class = "UILabel"; text = "Supariliac"; ObjectID = "aqd-Vg-FTf"; */
+"aqd-Vg-FTf.text" = "Biodrowy";
+
+/* Class = "UILabel"; text = "Triceps"; ObjectID = "cT5-2F-Zu7"; */
+"cT5-2F-Zu7.text" = "Triceps";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "fIO-9y-Qlo"; */
+"fIO-9y-Qlo.text" = "Błąd!";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "kdL-Z3-7Df"; */
+"kdL-Z3-7Df.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "pk8-0t-c3O"; */
+"pk8-0t-c3O.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Axilla"; ObjectID = "qjg-Y8-tzr"; */
+"qjg-Y8-tzr.text" = "Pacha";
+
+/* Class = "UILabel"; text = "Subscapular"; ObjectID = "v3K-eK-XBN"; */
+"v3K-eK-XBN.text" = "Łopatka";

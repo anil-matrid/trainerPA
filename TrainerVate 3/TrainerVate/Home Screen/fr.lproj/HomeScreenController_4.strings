@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Recommend"; ObjectID = "4EX-LY-fMW"; */
+"4EX-LY-fMW.text" = "Poleć";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9fK-x4-Dzd"; */
+"9fK-x4-Dzd.text" = "Label";
+
+/* Class = "UILabel"; text = "Calendar"; ObjectID = "GdS-h2-PX4"; */
+"GdS-h2-PX4.text" = "Kalendarz";
+
+/* Class = "UILabel"; text = "Clients"; ObjectID = "e6i-nM-ofn"; */
+"e6i-nM-ofn.text" = "Klienci";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "eRM-vG-yz0"; */
+"eRM-vG-yz0.text" = "Ustawienia";
+
+/* Class = "UILabel"; text = "Shop"; ObjectID = "tpc-un-mEZ"; */
+"tpc-un-mEZ.text" = "Zakupy";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "vcG-92-e78"; */
+"vcG-92-e78.text" = "Wiadomości";

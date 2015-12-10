@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "4TC-9W-2Kq"; */
+"4TC-9W-2Kq.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UILabel"; text = "Subscapular"; ObjectID = "5gK-Ud-G4A"; */
+"5gK-Ud-G4A.text" = "Łopatka";
+
+/* Class = "UILabel"; text = "Thigh"; ObjectID = "5hb-QM-AEz"; */
+"5hb-QM-AEz.text" = "Udo";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "9iR-Nf-tCh"; */
+"9iR-Nf-tCh.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Abdominal"; ObjectID = "E0V-Yb-Yiy"; */
+"E0V-Yb-Yiy.text" = "Brzuszny";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "EGM-wO-C0H"; */
+"EGM-wO-C0H.normalTitle" = "Pomiń";
+
+/* Class = "UILabel"; text = "Supariliac"; ObjectID = "EQH-T8-JPG"; */
+"EQH-T8-JPG.text" = "Biodrowy";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "Lam-Yc-RsD"; */
+"Lam-Yc-RsD.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "Nfy-mz-Eqn"; */
+"Nfy-mz-Eqn.placeholder" = "Jednostki";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "XAq-UZ-afV"; */
+"XAq-UZ-afV.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "Y2i-dq-YRJ"; */
+"Y2i-dq-YRJ.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Pectoral"; ObjectID = "boD-lC-Ekd"; */
+"boD-lC-Ekd.text" = "Piersiowy";
+
+/* Class = "UILabel"; text = "Skin Fold"; ObjectID = "er1-eM-ens"; */
+"er1-eM-ens.text" = "Fałd skórny";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "eun-ky-bBN"; */
+"eun-ky-bBN.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "jAI-LY-M5R"; */
+"jAI-LY-M5R.placeholder" = "Jednostki";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "jVy-tv-6Gj"; */
+"jVy-tv-6Gj.text" = "Select Diet Plan from";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "khM-Iv-wQn"; */
+"khM-Iv-wQn.placeholder" = "Jednostki";
+
+/* Class = "UILabel"; text = "Axilla"; ObjectID = "vVq-nk-zBe"; */
+"vVq-nk-zBe.text" = "Pacha";
+
+/* Class = "UILabel"; text = "Triceps"; ObjectID = "w4H-Dh-dCD"; */
+"w4H-Dh-dCD.text" = "Triceps";

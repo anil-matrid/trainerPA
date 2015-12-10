@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Goals:"; ObjectID = "0Wx-fx-Dav"; */
+"0Wx-fx-Dav.text" = "Cele:";
+
+/* Class = "UILabel"; text = "Improve flexibility"; ObjectID = "2ik-on-m3w"; */
+"2ik-on-m3w.text" = "Popraw elastycznośći";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "6Hw-FJ-8jl"; */
+"6Hw-FJ-8jl.text" = "Waga:";
+
+/* Class = "UILabel"; text = "Build muscles"; ObjectID = "7tI-EA-nl0"; */
+"7tI-EA-nl0.text" = "Budowanie mięśni";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "BMj-T2-XIi"; */
+"BMj-T2-XIi.text" = "Błąd!";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "Bb9-ti-0Z8"; */
+"Bb9-ti-0Z8.normalTitle" = "Zaktualizuj";
+
+/* Class = "UILabel"; text = "Injuries:"; ObjectID = "Dga-yl-kHc"; */
+"Dga-yl-kHc.text" = "Kontuzje:";
+
+/* Class = "UILabel"; text = "Strengthen core"; ObjectID = "EZw-Sh-fvZ"; */
+"EZw-Sh-fvZ.text" = "Wzmocnij kręgosłup";
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "MkX-gw-htP"; */
+"MkX-gw-htP.normalTitle" = "M";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "T0R-ex-t37"; */
+"T0R-ex-t37.text" = "Wiek:";
+
+/* Class = "UILabel"; text = "Target lower body"; ObjectID = "efr-VF-dBI"; */
+"efr-VF-dBI.text" = "Cel - dolna części ciała";
+
+/* Class = "UILabel"; text = "Sex:"; ObjectID = "egV-KM-u39"; */
+"egV-KM-u39.text" = "Płeć:";
+
+/* Class = "UILabel"; text = "Update information"; ObjectID = "fH6-wi-q87"; */
+"fH6-wi-q87.text" = "Aktualizowane informacje";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "gIk-6n-U7m"; */
+"gIk-6n-U7m.normalTitle" = "F";
+
+/* Class = "UILabel"; text = "Target upper body"; ObjectID = "iih-x0-xQF"; */
+"iih-x0-xQF.text" = "Cel - górna części ciała";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "ive-Lm-QMk"; */
+"ive-Lm-QMk.text" = "Please select at-least one product";
+
+/* Class = "UILabel"; text = "Can Do:"; ObjectID = "jwD-2c-azW"; */
+"jwD-2c-azW.text" = "Mogę wykonać:";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "lUE-nF-b1f"; */
+"lUE-nF-b1f.text" = "Imię:";
+
+/* Class = "UILabel"; text = "Improve endurance"; ObjectID = "nNe-Sw-Wyt"; */
+"nNe-Sw-Wyt.text" = "Popraw wytrzymałość";
+
+/* Class = "UILabel"; text = "Height:"; ObjectID = "nZy-ts-5Mg"; */
+"nZy-ts-5Mg.text" = "Wysokość:";
+
+/* Class = "UILabel"; text = "Can't Do:"; ObjectID = "tAk-Dy-cKh"; */
+"tAk-Dy-cKh.text" = "Nie mogę wykonać:";
+
+/* Class = "UILabel"; text = "Lose weight"; ObjectID = "uOg-4o-MhJ"; */
+"uOg-4o-MhJ.text" = "Schudnij";
+
+/* Class = "UILabel"; text = "Tone muscles"; ObjectID = "vq2-Gs-4R1"; */
+"vq2-Gs-4R1.text" = "Wymodeluj mięśnie";

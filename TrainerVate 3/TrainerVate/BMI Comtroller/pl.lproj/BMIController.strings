@@ -1,0 +1,39 @@
+
+/* Class = "UILabel"; text = "BMR"; ObjectID = "4ix-tn-ZO8"; */
+"4ix-tn-ZO8.text" = "BMR";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "5mp-OP-6uZ"; */
+"5mp-OP-6uZ.placeholder" = "Jednostki";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "9A7-My-uQp"; */
+"9A7-My-uQp.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "FUZ-eX-Kvo"; */
+"FUZ-eX-Kvo.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UILabel"; text = "Visceral fat"; ObjectID = "G9E-Rb-TbI"; */
+"G9E-Rb-TbI.text" = "Okołonarządowa tkanka tłuszczowa";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "Hy9-wx-n7d"; */
+"Hy9-wx-n7d.placeholder" = "Jednostki";
+
+/* Class = "UILabel"; text = "Bone mass"; ObjectID = "WfA-vI-ZWQ"; */
+"WfA-vI-ZWQ.text" = "Masa kości";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "d08-Lh-WDt"; */
+"d08-Lh-WDt.normalTitle" = "Pomiń";
+
+/* Class = "UITextField"; placeholder = "lbs"; ObjectID = "mLo-EN-bby"; */
+"mLo-EN-bby.placeholder" = "lbs";
+
+/* Class = "UITextField"; placeholder = "units"; ObjectID = "nPp-HP-m8c"; */
+"nPp-HP-m8c.placeholder" = "Jednostki";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "pdF-ok-khP"; */
+"pdF-ok-khP.text" = "Select Diet Plan from";
+
+/* Class = "UILabel"; text = "BMI"; ObjectID = "uET-Rf-jfy"; */
+"uET-Rf-jfy.text" = "BMI";
+
+/* Class = "UILabel"; text = "Physical ratings"; ObjectID = "xzs-Ty-skV"; */
+"xzs-Ty-skV.text" = "Ocena fizycznych";

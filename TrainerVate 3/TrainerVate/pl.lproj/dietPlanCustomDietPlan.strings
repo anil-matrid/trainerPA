@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "No diet plan found?"; ObjectID = "24e-IS-Hte"; */
+"24e-IS-Hte.text" = "Brak znalezionych Planów żywieniowych!";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "64E-Bb-wog"; */
+"64E-Bb-wog.text" = "Zwyczajowy plan żywieniowy";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "TwG-Mz-XiQ"; */
+"TwG-Mz-XiQ.normalTitle" = "Szukanie";
+
+/* Class = "UITextField"; placeholder = "Search Diet Plan"; ObjectID = "qv9-TV-gOE"; */
+"qv9-TV-gOE.placeholder" = "Poszukaj planu żywnienowego";

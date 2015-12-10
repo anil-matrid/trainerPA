@@ -1,0 +1,33 @@
+
+/* Class = "UIButton"; normalTitle = "Add Workout"; ObjectID = "5LL-zm-P5m"; */
+"5LL-zm-P5m.normalTitle" = "Dodaj Workout";
+
+/* Class = "UILabel"; text = "No Workouts yet"; ObjectID = "FdG-0y-dcl"; */
+"FdG-0y-dcl.text" = "Nie znaleziono treningu";
+
+/* Class = "UILabel"; text = "Do you really want to remove?"; ObjectID = "KoO-LM-BTH"; */
+"KoO-LM-BTH.text" = "Czy na pewno chcesz usunąć?";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "OPP-o7-gET"; */
+"OPP-o7-gET.text" = "błąd!";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "Qa9-1Y-tUO"; */
+"Qa9-1Y-tUO.normalTitle" = "Nie";
+
+/* Class = "UILabel"; text = "Select workout from"; ObjectID = "T4Z-cn-mLm"; */
+"T4Z-cn-mLm.text" = "Wybierz trening z";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "baF-TN-lds"; */
+"baF-TN-lds.text" = "Please select at-least one product";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "dXl-4j-bob"; */
+"dXl-4j-bob.normalTitle" = "Tak";
+
+/* Class = "UIButton"; normalTitle = "Library"; ObjectID = "qGA-IQ-oxX"; */
+"qGA-IQ-oxX.normalTitle" = "Biblioteka";
+
+/* Class = "UILabel"; text = "My Clients - Workouts"; ObjectID = "uw0-pS-6Do"; */
+"uw0-pS-6Do.text" = "My Clients - Treningi";
+
+/* Class = "UIButton"; normalTitle = "Custom workout"; ObjectID = "yNr-s4-zkN"; */
+"yNr-s4-zkN.normalTitle" = "Typowy trening";

@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "helloo!"; ObjectID = "ajD-vP-aXr"; */
+"ajD-vP-aXr.text" = "Cześć!";
+
+/* Class = "UILabel"; text = "Personal Trainer"; ObjectID = "jHl-kt-aY9"; */
+"jHl-kt-aY9.text" = "Osobisty Trener";
+
+/* Class = "UILabel"; text = "Are you:"; ObjectID = "lyI-91-lQu"; */
+"lyI-91-lQu.text" = "Jesteś:";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "wip-lk-UtO"; */
+"wip-lk-UtO.text" = "Klient";

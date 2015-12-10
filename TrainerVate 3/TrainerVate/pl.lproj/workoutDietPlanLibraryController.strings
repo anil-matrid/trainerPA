@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "dSC-cH-VDm"; */
+"dSC-cH-VDm.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "Workout Library"; ObjectID = "oZ9-6R-1wk"; */
+"oZ9-6R-1wk.text" = "Biblioteka treningów";
+
+/* Class = "UITextField"; placeholder = "Search Workouts"; ObjectID = "qHf-ai-WJu"; */
+"qHf-ai-WJu.placeholder" = "Szukaj treningów";
+
+/* Class = "UILabel"; text = "Sorry! Internal Server Error."; ObjectID = "sdE-0n-g7n"; */
+"sdE-0n-g7n.text" = "Przepraszam! Wewnętrzny Błąd Serwera.";

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "5LF-Pq-gS8"; */
+"5LF-Pq-gS8.text" = "Telefon:";
+
+/* Class = "UILabel"; text = "Personal Trainer Code:"; ObjectID = "8mC-XI-vsl"; */
+"8mC-XI-vsl.text" = "Osobisty Kod Trenera:";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "HcD-TT-8U8"; */
+"HcD-TT-8U8.text" = "Hasło:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "T1m-qr-iBQ"; */
+"T1m-qr-iBQ.text" = "Email:";
+
+/* Class = "UILabel"; text = "T  R  A  I  N  E  R  V  A  T  E"; ObjectID = "jZ9-3b-Yrb"; */
+"jZ9-3b-Yrb.text" = "T  R  A  I  N  E  R  V  A  T  E";
+
+/* Class = "UILabel"; text = "I have read and accept Terms & Conditions"; ObjectID = "udW-3u-p9A"; */
+"udW-3u-p9A.text" = "Przeczytałem i akceptuję Warunki Umowy";

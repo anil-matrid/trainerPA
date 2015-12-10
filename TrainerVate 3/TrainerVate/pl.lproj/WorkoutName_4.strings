@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Workout Name"; ObjectID = "0ud-8r-Vy1"; */
+"0ud-8r-Vy1.text" = "Nazwa treningu";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "6Kn-tG-nh6"; */
+"6Kn-tG-nh6.text" = "błąd!";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "BnK-P4-Bzd"; */
+"BnK-P4-Bzd.normalTitle" = "Dodaj ćwiczenie";
+
+/* Class = "UIButton"; normalTitle = "Edit Reminder"; ObjectID = "Bz9-bC-qqm"; */
+"Bz9-bC-qqm.normalTitle" = "Przypomnij";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "cw3-sB-5eX"; */
+"cw3-sB-5eX.text" = "Please select at-least one product";
+
+/* Class = "UIButton"; normalTitle = "Update & Send"; ObjectID = "kk2-37-BHb"; */
+"kk2-37-BHb.normalTitle" = "Aktualizuj Wyślij";
+
+/* Class = "UILabel"; text = "No Exercises yet."; ObjectID = "npK-dy-JNc"; */
+"npK-dy-JNc.text" = "Nie masz jeszczeustalonego ćwiczenia.";
+
+/* Class = "UILabel"; text = "Your workout has been updated and sent to client!"; ObjectID = "tWP-sG-0aG"; */
+"tWP-sG-0aG.text" = "Twój Trening został wysłany do klienta!";

@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Clients"; ObjectID = "22E-Bc-4Af"; */
+"22E-Bc-4Af.text" = "Klienci";
+
+/* Class = "UILabel"; text = "Messages"; ObjectID = "5y0-E0-aXx"; */
+"5y0-E0-aXx.text" = "Wiadomości";
+
+/* Class = "UILabel"; text = "Calendar"; ObjectID = "H9g-zr-B2l"; */
+"H9g-zr-B2l.text" = "Kalendarz";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Hxq-Ij-R8l"; */
+"Hxq-Ij-R8l.text" = "Ustawienia";
+
+/* Class = "UILabel"; text = "Recommend"; ObjectID = "ka7-JK-tWz"; */
+"ka7-JK-tWz.text" = "Poleć";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pYM-Zf-LI7"; */
+"pYM-Zf-LI7.text" = "Label";
+
+/* Class = "UILabel"; text = "Shop"; ObjectID = "zhW-HV-pnE"; */
+"zhW-HV-pnE.text" = " Zakupy";

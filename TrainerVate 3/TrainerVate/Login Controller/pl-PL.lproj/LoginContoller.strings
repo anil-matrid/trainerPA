@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "7vC-qk-dpS"; */
+"7vC-qk-dpS.text" = "Select Diet Plan from";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "B8G-ay-rNq"; */
+"B8G-ay-rNq.normalTitle" = "Zapomniałeś hasła?";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "G70-MA-fRe"; */
+"G70-MA-fRe.text" = "E-mail:";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "HQz-PM-Szw"; */
+"HQz-PM-Szw.text" = "Zaloguj się";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "SXc-ls-6CD"; */
+"SXc-ls-6CD.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "XSk-gp-XFC"; */
+"XSk-gp-XFC.text" = "Hasło:";
+
+/* Class = "UILabel"; text = "T  R  A  I  N  E  R  V  A  T  E"; ObjectID = "kqB-QL-UUI"; */
+"kqB-QL-UUI.text" = "T  R  A  I  N  E  R  V  A  T  E";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tdV-G2-F3D"; */
+"tdV-G2-F3D.text" = "Label";

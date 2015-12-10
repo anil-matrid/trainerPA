@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "2rG-RM-ES4"; */
+"2rG-RM-ES4.text" = "Szczegóły";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "4fS-ow-2U8"; */
+"4fS-ow-2U8.normalTitle" = "Nie";
+
+/* Class = "UITextField"; placeholder = "Weight"; ObjectID = "9yB-am-9Pm"; */
+"9yB-am-9Pm.placeholder" = "waga";
+
+/* Class = "UILabel"; text = "Time must be less than 120 minutes."; ObjectID = "Hk7-g6-3bQ"; */
+"Hk7-g6-3bQ.text" = "Czas musi być krótszy niż 120 minut.";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "NgC-d2-RSk"; */
+"NgC-d2-RSk.normalTitle" = "Zapisz zmiany";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "OOD-TD-KfD"; */
+"OOD-TD-KfD.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Set workout requirements"; ObjectID = "Pwl-KJ-0ae"; */
+"Pwl-KJ-0ae.text" = "Określone wymagania treningu.";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "REy-38-fyL"; */
+"REy-38-fyL.text" = "Czas";
+
+/* Class = "UILabel"; text = "Reps"; ObjectID = "SiL-sp-Clm"; */
+"SiL-sp-Clm.text" = "Powtórzenia";
+
+/* Class = "UITextField"; placeholder = "Reps"; ObjectID = "Xgf-yi-p9O"; */
+"Xgf-yi-p9O.placeholder" = "Powtórzenia";
+
+/* Class = "UITextField"; placeholder = "Time"; ObjectID = "Yud-v0-8ob"; */
+"Yud-v0-8ob.placeholder" = "Czas";
+
+/* Class = "UILabel"; text = "Exercise Name"; ObjectID = "akS-Q9-Pi1"; */
+"akS-Q9-Pi1.text" = "Nazwa ćwiczenia";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "bW7-VL-9gx"; */
+"bW7-VL-9gx.normalTitle" = "Tak";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "cfz-sU-yNG"; */
+"cfz-sU-yNG.normalTitle" = "Dodaj ćwiczenie";
+
+/* Class = "UILabel"; text = "Instructions"; ObjectID = "gMr-c6-DlI"; */
+"gMr-c6-DlI.text" = "Instrukcje";
+
+/* Class = "UILabel"; text = "Weights"; ObjectID = "hbh-gC-pGg"; */
+"hbh-gC-pGg.text" = "Masa ciała";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "mHg-zX-Hy3"; */
+"mHg-zX-Hy3.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "ned-q9-Nqt"; */
+"ned-q9-Nqt.text" = "prędkość";
+
+/* Class = "UILabel"; text = "Do you really want to remove?"; ObjectID = "uVV-bQ-jlT"; */
+"uVV-bQ-jlT.text" = "Czy na pewno chcesz usunąć?";
+
+/* Class = "UITextField"; placeholder = "Speed"; ObjectID = "xr3-Dn-o6g"; */
+"xr3-Dn-o6g.placeholder" = "Prędkość";
+
+/* Class = "UIButton"; normalTitle = "Remove Exercise"; ObjectID = "yPo-Qq-Hjp"; */
+"yPo-Qq-Hjp.normalTitle" = "Usuń ćwiczenia";

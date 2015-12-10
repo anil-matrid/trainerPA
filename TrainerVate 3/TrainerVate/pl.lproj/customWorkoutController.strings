@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Name the workout bundle"; ObjectID = "Kj1-Af-rnk"; */
+"Kj1-Af-rnk.text" = "Nazwij plan treningu:";
+
+/* Class = "UILabel"; text = "Custom Workout"; ObjectID = "dJW-dv-iqx"; */
+"dJW-dv-iqx.text" = "Trening na zamówienie";
+
+/* Class = "UILabel"; text = "Custom Workout has been created successfully. Do you want to add exercise in this workout?"; ObjectID = "pDe-lB-8TW"; */
+"pDe-lB-8TW.text" = "Custom Workout has been created successfully. Do you want to add exercise in this workout?";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "tGm-73-zdQ"; */
+"tGm-73-zdQ.text" = "Błąd!";

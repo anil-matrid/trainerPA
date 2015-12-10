@@ -1,0 +1,63 @@
+
+/* Class = "UITextField"; placeholder = "pounds"; ObjectID = "3Rv-4G-oK7"; */
+"3Rv-4G-oK7.placeholder" = "kiligrama";
+
+/* Class = "UILabel"; text = "Add Body Stats"; ObjectID = "6KF-Vr-Ks1"; */
+"6KF-Vr-Ks1.text" = "Dodaj statystyk pomarów ciała";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "6oc-ms-iwJ"; */
+"6oc-ms-iwJ.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "CWN-5Y-6XH"; */
+"CWN-5Y-6XH.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Body fat %"; ObjectID = "DUR-ef-Box"; */
+"DUR-ef-Box.text" = "Masa Tłuszczowa %";
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "HhD-SL-T3t"; */
+"HhD-SL-T3t.text" = "Błąd!";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "JAX-tm-L0j"; */
+"JAX-tm-L0j.placeholder" = "%";
+
+/* Class = "UILabel"; text = "Height"; ObjectID = "Lvw-HC-AZG"; */
+"Lvw-HC-AZG.text" = "Height";
+
+/* Class = "UILabel"; text = "Waist size"; ObjectID = "MdM-3q-NZ1"; */
+"MdM-3q-NZ1.text" = "Wymiary Tali";
+
+/* Class = "UILabel"; text = "Leg size"; ObjectID = "PMS-Jm-qsT"; */
+"PMS-Jm-qsT.text" = "Wymiar nogi";
+
+/* Class = "UILabel"; text = "Water %"; ObjectID = "Tsv-eg-HE2"; */
+"Tsv-eg-HE2.text" = "Woda %";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "VIa-P1-1yo"; */
+"VIa-P1-1yo.placeholder" = "cm";
+
+/* Class = "UILabel"; text = "Chest size"; ObjectID = "Zz5-OX-qn5"; */
+"Zz5-OX-qn5.text" = "Wymiar klatki piersiowej";
+
+/* Class = "UILabel"; text = "Select Diet Plan from"; ObjectID = "c2n-Qa-dcQ"; */
+"c2n-Qa-dcQ.text" = "Select Diet Plan from";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "dBT-ec-VWw"; */
+"dBT-ec-VWw.placeholder" = "cm";
+
+/* Class = "UITextField"; placeholder = "cm"; ObjectID = "mOS-ad-Jv9"; */
+"mOS-ad-Jv9.placeholder" = "cm";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "qny-7b-qSd"; */
+"qny-7b-qSd.normalTitle" = "Pomiń";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "rCs-je-usX"; */
+"rCs-je-usX.text" = "Waga";
+
+/* Class = "UILabel"; text = "Arm size"; ObjectID = "shK-3B-i7M"; */
+"shK-3B-i7M.text" = "Wymiar ręki";
+
+/* Class = "UITextField"; placeholder = "%"; ObjectID = "w8G-6G-hbY"; */
+"w8G-6G-hbY.placeholder" = "%";
+
+/* Class = "UILabel"; text = "Basic Stats"; ObjectID = "x1I-8N-5II"; */
+"x1I-8N-5II.text" = "Podstawowa statystyka";

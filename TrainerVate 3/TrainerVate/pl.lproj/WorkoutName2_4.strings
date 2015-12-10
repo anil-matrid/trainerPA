@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "2Df-DQ-dfF"; */
+"2Df-DQ-dfF.text" = "błąd!";
+
+/* Class = "UILabel"; text = "Please select at-least one product"; ObjectID = "8So-Rv-SW1"; */
+"8So-Rv-SW1.text" = "Please select at-least one product";
+
+/* Class = "UILabel"; text = "Your workout has been sent to client."; ObjectID = "8wB-ZX-OGW"; */
+"8wB-ZX-OGW.text" = "Twój Trening został wysłany do klienta.";
+
+/* Class = "UILabel"; text = "There are no exercise in bundle.               Lets add some. "; ObjectID = "FYa-85-nXL"; */
+"FYa-85-nXL.text" = "There are no exercise in bundle.               Lets add some. ";
+
+/* Class = "UIButton"; normalTitle = "Set Reminder"; ObjectID = "J1F-Ck-x3R"; */
+"J1F-Ck-x3R.normalTitle" = "Ustaw przypomnienie";
+
+/* Class = "UILabel"; text = "No exercise ye"; ObjectID = "U42-TH-hPN"; */
+"U42-TH-hPN.text" = "Nie masz jeszczeustalonego ćwiczenia";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "V19-QN-tEW"; */
+"V19-QN-tEW.normalTitle" = "Zakończ";
+
+/* Class = "UILabel"; text = "Workout Name"; ObjectID = "hTp-Ez-OeD"; */
+"hTp-Ez-OeD.text" = "Nazwa treningu";
+
+/* Class = "UILabel"; text = "Do you want to set a reminder?"; ObjectID = "lXf-oF-XQX"; */
+"lXf-oF-XQX.text" = "Czy chcesz ustawić resztę ?";
+
+/* Class = "UIButton"; normalTitle = "Send Workout"; ObjectID = "n0D-VR-EpH"; */
+"n0D-VR-EpH.normalTitle" = "Wyślij Trening";
+
+/* Class = "UILabel"; text = "This workout name already exists. Please enter a different name."; ObjectID = "nkK-bG-lqG"; */
+"nkK-bG-lqG.text" = "Ta nazwa treningu już istnieje. Proszę podać inną nazwę.";
+
+/* Class = "UIButton"; normalTitle = "Add Exercise"; ObjectID = "shV-8S-kJQ"; */
+"shV-8S-kJQ.normalTitle" = "Dodaj ćwiczenie";

@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Error!"; ObjectID = "HnL-37-VJH"; */
+"HnL-37-VJH.text" = "Błąd!";
+
+/* Class = "UILabel"; text = "Name the dietplan bundle:"; ObjectID = "LVM-aK-VYB"; */
+"LVM-aK-VYB.text" = "Name the dietplan bundle:";
+
+/* Class = "UILabel"; text = "Create Diet Plan"; ObjectID = "b6s-g7-kdT"; */
+"b6s-g7-kdT.text" = "Tworzenie Planu Żywieniowego";
+
+/* Class = "UILabel"; text = "Diet plan name must not be empty!"; ObjectID = "xZG-PG-cEI"; */
+"xZG-PG-cEI.text" = "Dobowy Plan żywieniowy nie może być pusty!";

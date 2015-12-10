@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "No result found!"; ObjectID = "ARx-Uf-F5N"; */
+"ARx-Uf-F5N.text" = "Brak wyników!";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "PG6-rA-kFl"; */
+"PG6-rA-kFl.normalTitle" = "Szukanie";
+
+/* Class = "UILabel"; text = "Diet Plan Customise"; ObjectID = "p8D-CB-NfI"; */
+"p8D-CB-NfI.text" = "Zwyczajowy plan żywieniowy";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "pXB-eQ-Zgw"; */
+"pXB-eQ-Zgw.normalTitle" = "+";

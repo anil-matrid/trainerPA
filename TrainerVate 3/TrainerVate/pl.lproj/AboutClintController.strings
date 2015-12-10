@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "Monthly"; ObjectID = "Btf-be-qqK"; */
+"Btf-be-qqK.normalTitle" = "Miesięcznie";
+
+/* Class = "UILabel"; text = "Update client's reminders!"; ObjectID = "D2V-fK-rTd"; */
+"D2V-fK-rTd.text" = "Aktualizacja klienta przypomnienie !";
+
+/* Class = "UIButton"; normalTitle = "    Client Info"; ObjectID = "KHy-2h-6OI"; */
+"KHy-2h-6OI.normalTitle" = "    Informacje o Kliencie";
+
+/* Class = "UIButton"; normalTitle = "Weekly"; ObjectID = "LbM-ge-tJ0"; */
+"LbM-ge-tJ0.normalTitle" = "Co tydzień";
+
+/* Class = "UIButton"; normalTitle = "    Reminders"; ObjectID = "Ltx-HK-H9C"; */
+"Ltx-HK-H9C.normalTitle" = "    przypominane";
+
+/* Class = "UIButton"; normalTitle = "Daily"; ObjectID = "Wo7-M4-85c"; */
+"Wo7-M4-85c.normalTitle" = "Co dzień";
+
+/* Class = "UILabel"; text = "About Client"; ObjectID = "p7D-hC-b9Z"; */
+"p7D-hC-b9Z.text" = "O Kliencie";

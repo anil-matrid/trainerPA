@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Very Active"; ObjectID = "5ZU-eP-KwE"; */
+"5ZU-eP-KwE.normalTitle" = "Bardzo aktywny";
+
+/* Class = "UIButton"; normalTitle = "Not at all active"; ObjectID = "FDk-yq-jow"; */
+"FDk-yq-jow.normalTitle" = "Brak aktywności";
+
+/* Class = "UILabel"; text = "How active are you?"; ObjectID = "OL4-ss-9Kx"; */
+"OL4-ss-9Kx.text" = "Jak aktywna się masz?";
+
+/* Class = "UILabel"; text = "Client's Information"; ObjectID = "dU3-Od-c1W"; */
+"dU3-Od-c1W.text" = "Klient's Informacje";
+
+/* Class = "UIButton"; normalTitle = "I go through phases"; ObjectID = "eyt-vn-S6D"; */
+"eyt-vn-S6D.normalTitle" = "Przechodzę przez etapy";

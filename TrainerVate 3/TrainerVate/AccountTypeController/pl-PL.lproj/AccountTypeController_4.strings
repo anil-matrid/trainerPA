@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Hi!"; ObjectID = "Nhm-Eq-2aD"; */
+"Nhm-Eq-2aD.text" = "Cześć!";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "Z6L-rg-fC8"; */
+"Z6L-rg-fC8.title" = "Title";
+
+/* Class = "UILabel"; text = "Personal Trainer"; ObjectID = "c1S-xr-9yy"; */
+"c1S-xr-9yy.text" = "Osobisty Trener";
+
+/* Class = "UILabel"; text = "Are you:"; ObjectID = "dAJ-BA-SkC"; */
+"dAJ-BA-SkC.text" = "Jesteś:";
+
+/* Class = "UILabel"; text = "Clients"; ObjectID = "rJn-MD-bWM"; */
+"rJn-MD-bWM.text" = "Klient";
